@@ -1,6 +1,9 @@
 # 웹/모바일(웹 기술) 스켈레톤 프로젝트
 # Petpermint
 ![logo.png](./logo.png)
+## 0. 프로젝트 사이트
+[PETPERMINT](https://petpermint.store/)
+
 ## 1. 프로젝트 개요
 
     “Petpermint”는 Pet과 Peppermint의 합성어로 민간요법으로 사용하던 페퍼민트처럼 반려동물 상태를 화상으로 간단히 체크하는 서비스 성격을 나타낸 이름입니다.
