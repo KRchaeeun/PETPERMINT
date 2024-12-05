@@ -19,7 +19,7 @@
     6. 장선웅 : 백엔드 서버, AWS
     
 ## 3. Convention
-
+ 
 1. Branch Convention
 
     ```
